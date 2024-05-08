@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy bypass -file .\RadeonRestart.ps1
